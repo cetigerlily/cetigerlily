@@ -10,7 +10,7 @@
 <hr>
 <p>
   <img src="https://github.com/cetigerlily/cetigerlily/blob/main/images/star-icon.png" width="20" height="20" />
-  currently a year 3 computer science major at NUS focusing on SWE and AI/ML
+  currently a year 4 computer science major at NUS focusing on SWE and AI/ML
 </p>
 <p>
   <img src="https://github.com/cetigerlily/cetigerlily/blob/main/images/star-icon.png" width="20" height="20" />
